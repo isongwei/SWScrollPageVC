@@ -13,6 +13,14 @@
 		F902DE671E5D3B9C00794610 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F902DE651E5D3B9C00794610 /* Main.storyboard */; };
 		F902DE691E5D3B9C00794610 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F902DE681E5D3B9C00794610 /* Assets.xcassets */; };
 		F902DE6C1E5D3B9C00794610 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F902DE6A1E5D3B9C00794610 /* LaunchScreen.storyboard */; };
+		F902DE761E5D78B600794610 /* SWScrollPageVC.m in Sources */ = {isa = PBXBuildFile; fileRef = F902DE751E5D78B600794610 /* SWScrollPageVC.m */; };
+		F902DE841E5D7FCD00794610 /* HotViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F902DE791E5D7FCD00794610 /* HotViewController.m */; };
+		F902DE851E5D7FCD00794610 /* ReaderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F902DE7B1E5D7FCD00794610 /* ReaderViewController.m */; };
+		F902DE861E5D7FCD00794610 /* ScienceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F902DE7D1E5D7FCD00794610 /* ScienceViewController.m */; };
+		F902DE871E5D7FCD00794610 /* ScoietyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F902DE7F1E5D7FCD00794610 /* ScoietyViewController.m */; };
+		F902DE881E5D7FCD00794610 /* TopLineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F902DE811E5D7FCD00794610 /* TopLineViewController.m */; };
+		F902DE891E5D7FCD00794610 /* VideoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F902DE831E5D7FCD00794610 /* VideoViewController.m */; };
+		F902DE8F1E5D83C700794610 /* SWViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F902DE8E1E5D83C700794610 /* SWViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +34,22 @@
 		F902DE681E5D3B9C00794610 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F902DE6B1E5D3B9C00794610 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F902DE6D1E5D3B9C00794610 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F902DE741E5D78B600794610 /* SWScrollPageVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWScrollPageVC.h; sourceTree = "<group>"; };
+		F902DE751E5D78B600794610 /* SWScrollPageVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWScrollPageVC.m; sourceTree = "<group>"; };
+		F902DE781E5D7FCD00794610 /* HotViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HotViewController.h; sourceTree = "<group>"; };
+		F902DE791E5D7FCD00794610 /* HotViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HotViewController.m; sourceTree = "<group>"; };
+		F902DE7A1E5D7FCD00794610 /* ReaderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderViewController.h; sourceTree = "<group>"; };
+		F902DE7B1E5D7FCD00794610 /* ReaderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderViewController.m; sourceTree = "<group>"; };
+		F902DE7C1E5D7FCD00794610 /* ScienceViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScienceViewController.h; sourceTree = "<group>"; };
+		F902DE7D1E5D7FCD00794610 /* ScienceViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScienceViewController.m; sourceTree = "<group>"; };
+		F902DE7E1E5D7FCD00794610 /* ScoietyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScoietyViewController.h; sourceTree = "<group>"; };
+		F902DE7F1E5D7FCD00794610 /* ScoietyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScoietyViewController.m; sourceTree = "<group>"; };
+		F902DE801E5D7FCD00794610 /* TopLineViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TopLineViewController.h; sourceTree = "<group>"; };
+		F902DE811E5D7FCD00794610 /* TopLineViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TopLineViewController.m; sourceTree = "<group>"; };
+		F902DE821E5D7FCD00794610 /* VideoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoViewController.h; sourceTree = "<group>"; };
+		F902DE831E5D7FCD00794610 /* VideoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoViewController.m; sourceTree = "<group>"; };
+		F902DE8D1E5D83C700794610 /* SWViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWViewController.h; sourceTree = "<group>"; };
+		F902DE8E1E5D83C700794610 /* SWViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,14 +82,14 @@
 		F902DE5B1E5D3B9C00794610 /* 仿网易菜单滚动 */ = {
 			isa = PBXGroup;
 			children = (
+				F902DE771E5D7FCD00794610 /* ChildVC */,
+				F902DE731E5D789B00794610 /* SWScrollPageVC */,
 				F902DE5F1E5D3B9C00794610 /* AppDelegate.h */,
 				F902DE601E5D3B9C00794610 /* AppDelegate.m */,
 				F902DE621E5D3B9C00794610 /* ViewController.h */,
 				F902DE631E5D3B9C00794610 /* ViewController.m */,
-				F902DE651E5D3B9C00794610 /* Main.storyboard */,
-				F902DE681E5D3B9C00794610 /* Assets.xcassets */,
-				F902DE6A1E5D3B9C00794610 /* LaunchScreen.storyboard */,
-				F902DE6D1E5D3B9C00794610 /* Info.plist */,
+				F902DE8D1E5D83C700794610 /* SWViewController.h */,
+				F902DE8E1E5D83C700794610 /* SWViewController.m */,
 				F902DE5C1E5D3B9C00794610 /* Supporting Files */,
 			);
 			path = "仿网易菜单滚动";
@@ -74,9 +98,41 @@
 		F902DE5C1E5D3B9C00794610 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F902DE651E5D3B9C00794610 /* Main.storyboard */,
+				F902DE681E5D3B9C00794610 /* Assets.xcassets */,
+				F902DE6A1E5D3B9C00794610 /* LaunchScreen.storyboard */,
+				F902DE6D1E5D3B9C00794610 /* Info.plist */,
 				F902DE5D1E5D3B9C00794610 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F902DE731E5D789B00794610 /* SWScrollPageVC */ = {
+			isa = PBXGroup;
+			children = (
+				F902DE741E5D78B600794610 /* SWScrollPageVC.h */,
+				F902DE751E5D78B600794610 /* SWScrollPageVC.m */,
+			);
+			path = SWScrollPageVC;
+			sourceTree = "<group>";
+		};
+		F902DE771E5D7FCD00794610 /* ChildVC */ = {
+			isa = PBXGroup;
+			children = (
+				F902DE781E5D7FCD00794610 /* HotViewController.h */,
+				F902DE791E5D7FCD00794610 /* HotViewController.m */,
+				F902DE7A1E5D7FCD00794610 /* ReaderViewController.h */,
+				F902DE7B1E5D7FCD00794610 /* ReaderViewController.m */,
+				F902DE7C1E5D7FCD00794610 /* ScienceViewController.h */,
+				F902DE7D1E5D7FCD00794610 /* ScienceViewController.m */,
+				F902DE7E1E5D7FCD00794610 /* ScoietyViewController.h */,
+				F902DE7F1E5D7FCD00794610 /* ScoietyViewController.m */,
+				F902DE801E5D7FCD00794610 /* TopLineViewController.h */,
+				F902DE811E5D7FCD00794610 /* TopLineViewController.m */,
+				F902DE821E5D7FCD00794610 /* VideoViewController.h */,
+				F902DE831E5D7FCD00794610 /* VideoViewController.m */,
+			);
+			path = ChildVC;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -151,8 +207,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F902DE891E5D7FCD00794610 /* VideoViewController.m in Sources */,
+				F902DE881E5D7FCD00794610 /* TopLineViewController.m in Sources */,
 				F902DE641E5D3B9C00794610 /* ViewController.m in Sources */,
+				F902DE871E5D7FCD00794610 /* ScoietyViewController.m in Sources */,
 				F902DE611E5D3B9C00794610 /* AppDelegate.m in Sources */,
+				F902DE841E5D7FCD00794610 /* HotViewController.m in Sources */,
+				F902DE861E5D7FCD00794610 /* ScienceViewController.m in Sources */,
+				F902DE851E5D7FCD00794610 /* ReaderViewController.m in Sources */,
+				F902DE761E5D78B600794610 /* SWScrollPageVC.m in Sources */,
+				F902DE8F1E5D83C700794610 /* SWViewController.m in Sources */,
 				F902DE5E1E5D3B9C00794610 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -219,7 +283,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -260,7 +324,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -310,6 +374,7 @@
 				F902DE721E5D3B9C00794610 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
